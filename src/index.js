@@ -5,3 +5,4 @@ import '@styles/main.css'
   const main = null || document.getElementById('main');
   main.innerHTML = await Template();
 })();
+
